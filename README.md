@@ -27,4 +27,4 @@ It's possible to execute the project as follow:
 ● (5) Logout - You can do logout
 
 ## Observations
-● You can do not list the appointments by the mobile app, this feature is jut for the [web application](https://github.com/Gisleude/GoBarberWeb2).
+● You can not list the appointments by the mobile app, this feature is jut for the [web application](https://github.com/Gisleude/GoBarberWeb2).
